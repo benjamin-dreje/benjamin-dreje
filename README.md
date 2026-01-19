@@ -5,8 +5,9 @@
 ### Fullstack Developer | MERN Stack Specialist 🚀
 
 I am a passionate Fullstack Developer with a deep love for building modern, 
-scalable, and user-centric web applications. My expertise lies in the **MERN Stack**,
-where I bridge the gap between robust backend logic and intuitive frontend experiences.
+scalable, and user-centric web applications. My expertise
+lies in the **MERN Stack**,where I bridge the gap
+between robust backend logic and intuitive frontend experiences.
 
 ---
 
