@@ -1,4 +1,4 @@
-# BenjaminDreje
+# benjamin-dreje
 
 # Hi there, I'm Benjamin 👋
 
