@@ -33,10 +33,16 @@ between robust backend logic and intuitive frontend experiences.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 ### 📫 How to reach me:
--[![benjamindreje@gmail.com](https://img.shields.io/badge/Email-benjamindreje%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamindreje@gmail.com)
--![ https://discordapp.com/users/benjamindreje](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](הקישור_שלך_ללינקדאין)
+
+[![Email](https://img.shields.io/badge/Email-benjamindreje%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamindreje@gmail.com)
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/714151323315208213) 
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE_NAME)
 
 ---
