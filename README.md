@@ -36,6 +36,7 @@ between robust backend logic and intuitive frontend experiences.
 
 ### 📫 How to reach me:
 - **Email:** benjamindreje@gmail.com
+- - **Discord:** ! https://discordapp.com/users/benjamindreje(https://img.shields.io/badge/benjamin__dev-5865F2?style=flat-square&logo=discord&logoColor=white)
 - **LinkedIn:**
 
 ---
