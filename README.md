@@ -10,7 +10,7 @@ between polished user experiences (**UI/UX**) and robust backend architecture us
 
 ---
 
-### 🎨 Design & UI/UX studies
+### 🎨 Design & UI/UX Studies
 
 **Creative Suite & Prototyping:**
 <br/>
