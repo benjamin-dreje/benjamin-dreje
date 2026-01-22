@@ -59,20 +59,17 @@ between polished user experiences (**UI/UX**) and robust backend architecture us
 
 ---
 
-
 ### 📊 Professional Stats & Activity
 
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjamin-dreje&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-dreje&layout=compact&theme=radical&hide_langs_langs=html,css" />
 
-  <br/>
+  <br/><br/>
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamin-dreje&theme=radical" />
-  
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=benjamin-dreje&theme=radical&filter=repo&margin-w=15" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=benjamin-dreje&theme=radical&filter=repo" />
 
 </div>
 
