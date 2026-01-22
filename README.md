@@ -64,15 +64,15 @@ between polished user experiences (**UI/UX**) and robust backend architecture us
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjamin-dreje&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_langs_langs=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-drej&layout=compact&theme=radical&hide_langs_langs=html,css" />
 
   <br/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamin-drej&theme=radical" />
   
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&filter=repo&margin-w=15" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=benjamin-drej&theme=radical&filter=repo&margin-w=15" />
 
 </div>
 
