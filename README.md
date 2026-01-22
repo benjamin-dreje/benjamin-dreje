@@ -59,11 +59,6 @@ between polished user experiences (**UI/UX**) and robust backend architecture us
 
 ---
 
-### 📊 GitHub Activity
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjamin-dreje&show_icons=true&theme=radical)
-
-
----
 
 ### 📊 Professional Stats & Activity
 
