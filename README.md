@@ -63,7 +63,6 @@ between polished user experiences (**UI/UX**) and robust backend architecture us
 
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=benjamin-dreje&theme=radical" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=benjamin-dreje&theme=radical&filter=repo" />
 
   <br/><br/>
 
