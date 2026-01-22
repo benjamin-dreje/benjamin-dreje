@@ -53,8 +53,7 @@ between polished user experiences (**UI/UX**) and robust backend architecture us
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/714151323315208213) 
-
+![Discord](https://img.shields.io/badge/Discord-benjamindreje%231234-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
